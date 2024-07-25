@@ -1,0 +1,14 @@
+{
+  "name": "libros",
+  "version": "1.0.0",
+  "main": "Cliente.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "description": ""
+}
